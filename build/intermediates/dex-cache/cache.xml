@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\pre-dexed\debug\classes-0b383f812ce3d18906dd4932b22833fb1e4ec6c2.jar" />
+    </item>
+    <item
         jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
         <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\classes-33c112c6785d46e2bcd7578e59e6bfaf1c303973.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0-a37b5c35615644b91ec94861b99afdb2e3b79889.jar" />
     </item>
     <item
         jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
@@ -23,18 +37,18 @@
         <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\support-annotations-23.1.0-0b171af79950e35665a377b219c2572bde136a95.jar" />
     </item>
     <item
-        jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jar="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\pre-dexed\debug\classes-dd21b4a66c37269675d37da50d1959136c2ab97a.jar" />
+    </item>
+    <item
+        jar="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0-a37b5c35615644b91ec94861b99afdb2e3b79889.jar" />
-    </item>
-    <item
-        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
-        <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\com.android.volley-2015.05.28-1a19b17c83ec7254e168572a5db4a9a21ffe0246.jar" />
+        <dex dex="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d4d2ed01bdf0c7e147c26aef8919cf2149c56d39.jar" />
     </item>
     <item
         jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
@@ -44,11 +58,11 @@
         <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\classes-20265f8b0080611b077ac01e3212e057c5fbc3ff.jar" />
     </item>
     <item
-        jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jar="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\classes-392911623c9ada242488723e307378345d04a638.jar" />
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\pre-dexed\debug\classes-33b2d9a5dd4756e0a325e5cd1281a5e2e38f629c.jar" />
     </item>
     <item
         jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
@@ -56,6 +70,27 @@
         revision="23.0.2"
         sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
         <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\gson-2.4-1dcb4b3cde0aaf377969481c47050a2b79f7d7a1.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\classes-392911623c9ada242488723e307378345d04a638.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="D:\Android Studio Project\TKUNetworkInforApp-master\app\build\intermediates\pre-dexed\release\com.android.volley-2015.05.28-1a19b17c83ec7254e168572a5db4a9a21ffe0246.jar" />
+    </item>
+    <item
+        jar="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\Git\TKUNetworkInforApp-master\TKU-1stASapp\app\build\intermediates\pre-dexed\debug\classes-96c7f360b3612fd075af3574cd49fef5020ba1fe.jar" />
     </item>
 
 </items>
